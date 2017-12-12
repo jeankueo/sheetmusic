@@ -1,6 +1,6 @@
 \version "2.18.2"
 
-% This my first score, video 7 finished
+% This my first score, video 7 finished https://www.youtube.com/watch?v=DRKGw6RWLJI&index=8&list=PLHi8BvxILUV7hsUjn_Az5filU1TsNzq2R
 \header {
     title = "My Score"
     composer = "Composer"
