@@ -1,6 +1,6 @@
 \version "2.18.2"
 
-% This my first score
+% This my first score, video 7 finished
 \header {
     title = "My Score"
     composer = "Composer"
