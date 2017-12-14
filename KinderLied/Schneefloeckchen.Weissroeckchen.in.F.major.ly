@@ -9,6 +9,10 @@
 
 \language "english"
 
+harmonies = \chordmode {
+   ""2 ""4 f4 ""2 g4:m ""2 c4:7 ""2 f2 ""1 b4 ""2 f4 b4 c4:7 f1
+}
+
 melody = \relative a' { 
   \time 3/4 \key f \major
   r4 r4 a8[ bf]  %m1 
@@ -63,10 +67,6 @@ lyricFour = \lyricmode {
   zu uns ins Tal.2 Dann4 bau’n wir den  
   \set stanza = #"4."
   Schnee- mann und wer- fen den Ball.2
-}
-
-harmonies = \chordmode {
-   ""2 ""4 f4 ""2 g4:m ""2 c4:7 ""2 f2 ""1 b4 ""2 f4 b4 c4:7 f1
 }
 
 <<
