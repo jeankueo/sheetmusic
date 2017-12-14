@@ -51,14 +51,14 @@ lyricTwo = \lyricmode {
   \set stanza = #"2." 
   gur-8 ren auf dem Dach,4 _4
   \set stanza = #"2."
-  eins-8 fliegt in die Lüf-4 te,
+  eins8 fliegt in die Lüf-4 te,
   \set stanza = #"2."
   flie-8 gen al- le nach.
 }
 
 lyricThree = \lyricmode {
   \set stanza = #"3."
-  Al-8 le mei- ne Hüh-4 nen
+  Al-8 le mei- ne Hüh-4 ner
   \set stanza = #"3." 
   schar-8 ren in dem Stroh,4 _4
   \set stanza = #"3." 
