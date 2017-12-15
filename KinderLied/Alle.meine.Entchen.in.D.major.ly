@@ -3,7 +3,7 @@
 \header {
   composer = "Volksweise"
   title = "Alle meine Entchen"
-  tagline = "Engraved by Jingjing Using Lilypond @2017.12"
+  tagline = ##f
 }
 
 \language "english"

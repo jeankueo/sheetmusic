@@ -4,7 +4,7 @@
 \header {
   composer = "Hedwig Haberkern (1869)"
   title = "Schneeflöckchen, Weißröckchen"
-  tagline = "Engraved by Jingjing Using Lilypond @2017.12"
+  tagline = ##f
 }
 
 \language "english"
