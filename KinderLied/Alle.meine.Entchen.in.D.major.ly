@@ -9,6 +9,7 @@
 \language "english"
 
 harmony = \chordmode {
+  \clef bass 
   d2 d2 g2 d2 g2 d2 g2 d2 a2:7 d2
 }
 
@@ -83,8 +84,8 @@ lyricFour = \lyricmode {
 }
 
 <<
-  \new ChordNames \harmony
   \new Voice \melody
+  \new ChoirStaff \harmony 
   \new Lyrics \lyricOne
   \new Lyrics \lyricTwo
   \new Lyrics \lyricThree

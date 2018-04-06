@@ -67,8 +67,8 @@ lyricThree = \lyricmode {
 }
 
 <<
-  \new ChordNames \harmonies
   \new Voice \melody 
+  \new ChoirStaff \harmonies
   \new Lyrics \lyricOne
   \new Lyrics \lyricTwo
   \new Lyrics \lyricThree
